@@ -1,0 +1,21 @@
+[
+ID : 1
+Department : a
+Doctor Name : a
+Phone Number : a
+Address : a
+]
+[
+ID : 2
+Department : bb
+Doctor Name : bbbb
+Address : bbbbbb
+Phone Number : bbbbbbb
+]
+[
+ID : 3
+Department : c
+Doctor Name : c
+Phone Number : c
+Address : c
+]

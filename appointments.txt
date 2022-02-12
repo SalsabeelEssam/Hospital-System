@@ -1,0 +1,20 @@
+[
+ID : 2
+Department : surg
+Doctor ID : 2
+Doctor Name : bbbb
+Patient Name : omar
+Patient Age : 25
+Patient Gender : male
+Time : 2
+]
+[
+ID : 3
+Department : brain
+Doctor ID : 3
+Doctor Name : c
+Patient Name : Alaa
+Patient Age : 28
+Patient Gender : female
+Time : 3
+]
